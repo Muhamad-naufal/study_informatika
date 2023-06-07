@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "917039863920",
+    "project_id": "study-informatika-6d21b",
+    "storage_bucket": "study-informatika-6d21b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917039863920:android:754b7b463a8bffce223cb5",
+        "android_client_info": {
+          "package_name": "com.naufalcorp.study_informatika"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "917039863920-2au52qh5ncn43jr7ekk5v5b8ke8tgtqj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOdAfo26phtRBhpUD10L5PrqCVELItbX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "917039863920-2au52qh5ncn43jr7ekk5v5b8ke8tgtqj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
